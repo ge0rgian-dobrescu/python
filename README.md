@@ -1,13 +1,13 @@
 # python - a repository made for scripts, projects and other cool stuff.
--  This repository will store a list of all projects I create.
+##  This repository will store a list of all projects I create.
 --- 
 ### 1. Simple Inventory Manager (SIM)
 ---
 
 #### 1. Simple Inventory Manager (SIM):
 - This is a simple Python program which purpose is to understand the dictionary rules and ways of working. It is also a pretty good practice for the if/else statements.
-- The program begins by initializing an "inventory" dictionary to allow for modifications. It starts with three objects, each with a unique key-value pair.
-    A straightforward command-line interface (CLI) GUI makes it easy for users to test:
+- The program begins by initializing an "inventory" dictionary to allow for modifications. It starts with three objects, each with a unique key-value pair.<br/>
+    A straightforward command-line interface (CLI) GUI makes it easy for users to test:<br/>
     The menu looks something like this in the command line:
 ('========================================')<br/>
 What would you like to do?<br/>
