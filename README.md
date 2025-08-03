@@ -9,13 +9,13 @@
 - The program begins by initializing an "inventory" dictionary to allow for modifications. It starts with three objects, each with a unique key-value pair.<br/>
     A straightforward command-line interface (CLI) GUI makes it easy for users to test:<br/>
     The menu looks something like this in the command line:
-('========================================')<br/>
+(========================================)<br/>
 What would you like to do?<br/>
 A - Check stock<br/>
 B - Change the stock for an item to the inventory<br/>
 C - Remove an item from the inventory<br/>
 Q - Quit<br/>
-('========================================')
+(========================================)
 
 It let's the user perform 3 actions(Check/Change/Remove) on the "key:value" pair mentioned earlier. These actions are the easiest to implement and also the most common uses for this type of program.
 
