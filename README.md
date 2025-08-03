@@ -9,7 +9,7 @@
 - The program begins by initializing an "inventory" dictionary to allow for modifications. It starts with three objects, each with a unique key-value pair.
     A straightforward command-line interface (CLI) GUI makes it easy for users to test:
     The menu looks something like this in the command line:
-('========================================')
+('========================================')<br/>
 What would you like to do?<br/>
 A - Check stock<br/>
 B - Change the stock for an item to the inventory<br/>
