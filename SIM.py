@@ -1,4 +1,4 @@
-# 7.2: Simple Inventory
+## Simple Inventory
 
 inventory = {
     "apple" : 50,
@@ -6,17 +6,9 @@ inventory = {
     "orange" : 20
  }
 
-#for key, value in inventory.items():
-#    print (f"{key} : {value}")
-# print(len(inventory))
-
 while True:
-    # Print the initial inventory.
-    #for key, value in inventory.items():
-        # print (f"{key} : {value}")
-    # print(len(inventory))
 
-    print ("\n========================================\n What would you like to do? \n A - Check stock \n B - Change the stock for an item to the inventory \n C - Remove an item from the inventory \n Q - Quit \n========================================\n")
+    print ("\n========================================\n What would you like to do? \n A - Check stock \n B - Change the stock for an item \n C - Remove an item from the inventory \n Q - Quit \n========================================\n")
     user_input = input("Enter an option(A/B/C/Q): ").upper()
 
     if user_input == 'A':
